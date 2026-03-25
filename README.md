@@ -11,7 +11,6 @@
 * Passionate about AI + Hardware integration (Edge AI, Embedded ML)
 * Building real-world systems using satellite data, IoT, and ML
 * Interested in efficient AI, hardware acceleration, and real-time systems
-* Actively seeking internships in AI/Embedded domains
 
 ---
 
