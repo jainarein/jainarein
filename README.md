@@ -22,7 +22,6 @@
 AI-powered system for crop residue analysis and environmental impact prediction using satellite data
 🔧 Improving model accuracy and performance
 **Tech:** Python, PyTorch, LSTM, XGBoost, FastAPI, React
-🔗 https://github.com/jainarein
 
 ---
 
@@ -30,7 +29,6 @@ AI-powered system for crop residue analysis and environmental impact prediction 
 
 Evaluates livability using AQI, satellite NDVI, and urban data
 **Tech:** Python, FastAPI, React, Sentinel-2, WAQI
-🔗 https://github.com/jainarein
 
 ---
 
