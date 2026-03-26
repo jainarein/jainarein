@@ -59,10 +59,10 @@ ESP32-S3 based authentication system using eye gestures
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Interest Areas
 
 * **Languages:** Python, C/C++
-* **AI/ML:** Machine Learning, Deep Learning
+* **AI/ML:** Machine Learning, Deep Learning(Interest Area)
 * **Embedded:** Arduino, ESP32, IoT Systems
 * **Tools:** FastAPI, React, MATLAB
 * **Hardware:** PCB Design (KiCad, Proteus)
